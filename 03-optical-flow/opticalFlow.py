@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import os
 
 def lucasKanade():
-    root = os.getcwd()
+    root =  os.path.dirname(os.path.abspath(__file__))
     videoPath = os.path.join(root, 'videos/tennis.mp4')
     videoCapObj = cv.VideoCapture(videoPath)
 

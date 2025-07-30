@@ -3,12 +3,11 @@ import numpy as np
 import matplotlib.pyplot as plt
 import os
 
-def houghLineTransform():
-    root = os.getcwd()
-    imgPath = os.path.join(root, "images/flowers.jpg")
+def houghLineTransform(path):
+    
 
     # Load in color and convert to RGB for Matplotlib
-    imgColor = cv.imread(imgPath, cv.IMREAD_COLOR)
+    imgColor = cv.imread(path, cv.IMREAD_COLOR)
     img = cv.cvtColor(imgColor, cv.COLOR_BGR2RGB)
     imgGray = cv.cvtColor(imgColor, cv.COLOR_BGR2GRAY)
 
@@ -61,4 +60,6 @@ def houghLineTransform():
     plt.show()
 
 if __name__ == "__main__":
-    houghLineTransform()
+    root =  os.path.dirname(os.path.abspath(__file__))
+    path = os.path.join(root, "images", "flowers.jpg")
+    houghLineTransform(path)

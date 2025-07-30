@@ -5,11 +5,8 @@ import os
 
 
 
-def colorHistogram():
-    root = os.getcwd()
-    #images/flowers.jpg
-    imgPath = os.path.join(root, "images/flowers.jpg")
-    img = cv.imread(imgPath)
+def colorHistogram(path):
+    img = cv.imread(path)
     plt.figure()
     plt.imshow(img)
     imgRGB = cv.cvtColor(img, cv.COLOR_BGR2RGB)
@@ -29,4 +26,6 @@ def colorHistogram():
 
 
 if __name__ == "__main__":
-    colorHistogram()
+    root =  os.path.dirname(os.path.abspath(__file__))
+    path = os.path.join(root, "images", "flowers.jpg")
+    colorHistogram(path)
