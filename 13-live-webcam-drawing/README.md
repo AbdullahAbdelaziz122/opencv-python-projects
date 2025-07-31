@@ -28,16 +28,13 @@ This project is a real-time virtual drawing application using OpenCV. It allows 
 Install dependencies:
 ```bash
 pip install opencv-python numpy
-
----
-
 ```
 ## Usage
 
 1. Run the script:
 
 ```bash
-python your_script_name.py
+python main.py
 
 ```
 
