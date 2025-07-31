@@ -1,4 +1,3 @@
-````markdown
 # OpenCV Python Projects
 
 This repository contains a collection of beginner-to-intermediate OpenCV projects demonstrating core computer vision concepts. All projects are implemented in Python using OpenCV.
@@ -25,6 +24,14 @@ This repository contains a collection of beginner-to-intermediate OpenCV project
 | `12-car-detection` | Vehicle Detection | Detect cars in video using Haar cascade classifier |
 
 ---
+
+## 💡 How to Run
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/yourusername/opencv-python-projects.git
+   cd opencv-python-projects
+
 
 ## 💡 How to Run
 
