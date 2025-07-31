@@ -68,14 +68,11 @@ python your_script_name.py
 * Use a brightly colored object that is easy to detect with HSV.
 * Adjust the HSV sliders in the `"Color detectors"` window to fine-tune detection.
 
-## Screenshots
 
-not available
 ---
 
 Feel free to improve or extend the project by adding:
 
 * Save functionality
 * More colors or brush types
-* Gesture recognition
-```
+* Gesture recognition ```
