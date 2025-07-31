@@ -33,14 +33,6 @@ This repository contains a collection of beginner-to-intermediate OpenCV project
    cd opencv-python-projects
 
 
-## 💡 How to Run
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/yourusername/opencv-python-projects.git
-   cd opencv-python-projects
-````
-
 2. **Install Requirements**:
 
    ```bash
