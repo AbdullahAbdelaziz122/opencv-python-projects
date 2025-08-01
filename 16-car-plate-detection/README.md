@@ -17,7 +17,11 @@ The second project extends detection by:
 
 A demonstration video is available in the [`assets`](assets/) folder:
 
-![Car Plate Detection and Extraction](assets/car_plate_detection.mp4)
+![Car Plate Detection](assets/detection.png)
+---
+![Car Plate Extraction](assets/saving.png)
+---
+![Car Plate Detection and Extraction Video](assets/car_plate_detection.mp4)
 
 ---
 
