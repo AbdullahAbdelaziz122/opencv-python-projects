@@ -26,6 +26,7 @@ This repository contains a collection of beginner-to-intermediate OpenCV project
 | `14-hand-detection` | Hand Tracking | Detect and track hands in real-time using color segmentation and contour analysis |
 | `15-screen-brightness-control` | Brightness Control | Adjust screen brightness based on ambient light detected from webcam |
 | `16-car-plate-detection` | License Plate Detection | Detect and extract car license plates from images and video streams |
+| `17-MATHMATICS-VISION` | Hand Gesture Math Solver | Interactive app for drawing math problems with hand gestures and receiving AI-powered solutions using Python, OpenCV, Streamlit, and Google Gemini |
 
 ## 💡 How to Run
 
