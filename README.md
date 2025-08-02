@@ -31,7 +31,7 @@ This repository contains a collection of beginner-to-intermediate OpenCV project
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/opencv-python-projects.git
+   git clone https://github.com/AbdullahAbdelaziz122/opencv-python-projects.git
    cd opencv-python-projects
 
 
@@ -41,19 +41,13 @@ This repository contains a collection of beginner-to-intermediate OpenCV project
    pip install -r requirement.txt
    ```
 
-3. **Run any project script**:
-
-   ```bash
-   python path/to/your_script.py
-   ```
-
 ---
 
 ## 📦 Project Structure
 
 * `README.md` – Overview and instructions
 * `requirement.txt` – Python dependencies
-* `demo.py` – Example script or launcher
+* `main.py` – Example script or launcher
 * Project folders organized by topic
 
 ---
