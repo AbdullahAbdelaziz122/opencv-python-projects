@@ -61,5 +61,3 @@ Additional enhancements and new modules (e.g., YOLO, Deep Learning models, OCR, 
 ## 📬 Feedback
 
 Feel free to open an issue or a pull request if you spot something to improve or want to contribute.
-
-```
