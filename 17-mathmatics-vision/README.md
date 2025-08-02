@@ -15,12 +15,14 @@ This project is an interactive computer vision application that combines hand ge
 ## Installation
 
 1. **Clone the repository:**
-        ```
+        ```bash
+        
         git clone https://github.com/AbdullahAbdelaziz122/opencv-python-projects.git
         cd opencv-python-projects/17-mathmatics-vision
         ```
 2. **Install dependencies:**
-        ```
+        
+        ```bash
         pip install -r requirements.txt
         ```
         Main dependencies:
@@ -43,7 +45,7 @@ This project is an interactive computer vision application that combines hand ge
 ## Usage
 
 1. **Start the Streamlit app:**
-        ```
+        ```bash
         streamlit run src/main.py
         ```
 2. **Interact with the app:**
@@ -59,7 +61,7 @@ This project is an interactive computer vision application that combines hand ge
 
 ## Directory Structure
 
-```
+```bash
 17-mathmatics-vision/
 ├── README.md
 ├── requirements.txt
