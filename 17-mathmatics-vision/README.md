@@ -90,3 +90,9 @@ Contributions are welcome! Please open issues or submit pull requests for improv
 - [Streamlit Documentation](https://docs.streamlit.io/)
 - [Google Generative AI](https://ai.google.dev/)
 - [NumPy Documentation](https://numpy.org/doc/)
+
+### Demo Pictures
+![Demo 1](assets/demo1.png)
+![Demo 2](assets/demo2.png)
+![Demo 3](assets/demo3.png)
+[Demo pictures]
