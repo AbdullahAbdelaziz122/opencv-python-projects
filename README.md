@@ -22,8 +22,10 @@ This repository contains a collection of beginner-to-intermediate OpenCV project
 | `10-face-detection` | Haar Cascades | Detect faces using OpenCV’s pre-trained Haar cascade classifier |
 | `11-Gun-Detection` | Object Detection | Detect guns using a custom Haar cascade model |
 | `12-car-detection` | Vehicle Detection | Detect cars in video using Haar cascade classifier |
-
----
+| `13-live-webcam-drawing` | Interactive Drawing | Draw shapes and annotations on live webcam feed using mouse events |
+| `14-hand-detection` | Hand Tracking | Detect and track hands in real-time using color segmentation and contour analysis |
+| `15-screen-brightness-control` | Brightness Control | Adjust screen brightness based on ambient light detected from webcam |
+| `16-car-plate-detection` | License Plate Detection | Detect and extract car license plates from images and video streams |
 
 ## 💡 How to Run
 
